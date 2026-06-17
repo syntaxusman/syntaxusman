@@ -49,8 +49,9 @@ Alongside heavy backend systems, I build responsive user interfaces for controll
 ## Technology Stack
 
 ### Languages & Frameworks
-<!-- START_LANG_BADGES -->
-<!-- END_LANG_BADGES -->
+
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-2E3440?style=flat-square&logo=typescript&logoColor=white)
+
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-2E3440?style=flat-square&logo=python&logoColor=white)
