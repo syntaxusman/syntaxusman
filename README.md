@@ -112,8 +112,7 @@ I focus on:
 
 ### Engineering Activity Overview
 
-
-[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyntaxusman&count_bg=%232088FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Profile Views](https://komarev.com/custom-svg/github/views/counter.svg?username=syntaxusman&color=2088FF&style=flat&label=Profile%20Views)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syntaxusman&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox)
 
