@@ -48,24 +48,28 @@ Alongside heavy backend systems, I build responsive user interfaces for controll
 
 ## Technology Stack
 
-### Languages & Frameworks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-2E3440?style=flat-square&logo=typescript&logoColor=white)
-
+### Languages & Core Runtimes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-2E3440?style=flat-square&logo=python&logoColor=white)
-![JavaScript/TypeScript](https://img.shields.io/badge/TypeScript-2E3440?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2E3440?style=flat-square&logo=nodedotjs&logoColor=white)
-![React Native / Expo](https://img.shields.io/badge/React%20Native%20%2F%20Expo-2E3440?style=flat-square&logo=expo&logoColor=white)
+### Frameworks & Platforms
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Platforms & Databases
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=flat-square&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-2E3440?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-2E3440?style=flat-square&logo=azuredevops&logoColor=white) 
+### Databases & Backend-as-a-Service
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+### Infrastructure & DevOps Tools
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Engineering Philosophy
 
