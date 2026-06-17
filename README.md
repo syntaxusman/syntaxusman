@@ -57,7 +57,7 @@ Alongside heavy backend systems, I build responsive user interfaces for controll
 ![HTML5](https://img.shields.io/badge/HTML5-2E3440?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2E3440?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & Ecosystems
+### Frameworks, Libraries & Ecosystems
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-2E3440?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-2E3440?style=flat-square&logo=woocommerce&logoColor=white)
@@ -65,22 +65,33 @@ Alongside heavy backend systems, I build responsive user interfaces for controll
 ![React](https://img.shields.io/badge/React-2E3440?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-2E3440?style=flat-square&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-2E3440?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-2E3440?style=flat-square&logo=reactquery&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-2E3440?style=flat-square&logo=elementor&logoColor=white)
+
+### Hosting, Cloud & Deployment
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2E3440?style=flat-square&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-2E3440?style=flat-square&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-2E3440?style=flat-square&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-2E3440?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2E3440?style=flat-square&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-2E3440?style=flat-square&logo=cloudflare&logoColor=white)
 
 ### Databases, ORMs & Gateways
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-2E3440?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-2E3440?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=flat-square&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-2E3440?style=flat-square&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2E3440?style=flat-square&logo=prisma&logoColor=white)
 ![Stripe API](https://img.shields.io/badge/Stripe-2E3440?style=flat-square&logo=stripe&logoColor=white)
 
-### Infrastructure & DevOps
+### Infrastructure & Engineering Tools
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-2E3440?style=flat-square&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2E3440?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2E3440?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-2E3440?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2E3440?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2E3440?style=flat-square&logo=postman&logoColor=white)
 
 ## Engineering Philosophy
 
