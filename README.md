@@ -112,8 +112,6 @@ I focus on:
 
 ### Engineering Activity Overview
 
-[![Profile Views](https://komarev.com/custom-svg/github/views/counter.svg?username=syntaxusman&color=2088FF&style=flat&label=Profile%20Views)](https://github.com/antonkomarev/github-profile-views-counter)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syntaxusman&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syntaxusman&theme=github-compact)
