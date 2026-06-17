@@ -69,12 +69,13 @@ Alongside heavy backend systems, I build responsive user interfaces for controll
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
 
 ### Hosting, Cloud & Deployment
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
 ### Databases, ORMs & Gateways
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -110,6 +111,10 @@ I focus on:
 > Most of the development activity reflected here originates from **private repositories** maintained across GitHub and Azure DevOps. These repositories remain private due to enterprise ownership, intellectual property, and strict contractual requirements.
 
 ### Engineering Activity Overview
+
+## Profile Analytics
+
+[![](https://visitcount.itsvg.in/api?id=syntaxusman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syntaxusman&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox)
 
