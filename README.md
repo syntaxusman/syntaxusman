@@ -113,7 +113,7 @@ I focus on:
 ### Engineering Activity Overview
 
 
-[![](https://visitcount.itsvg.in/api?id=syntaxusman&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://profile-counter.glitch.me/syntaxusman/count.svg" alt="Profile Views" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syntaxusman&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox)
 
