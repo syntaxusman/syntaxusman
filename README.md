@@ -49,8 +49,8 @@ Alongside heavy backend systems, I build responsive user interfaces for controll
 ## Technology Stack
 
 ### Languages & Frameworks
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxusman&theme=gruvbox&hide_border=true&layout=donut)
+<!-- START_LANG_BADGES -->
+<!-- END_LANG_BADGES -->
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-2E3440?style=flat-square&logo=python&logoColor=white)
