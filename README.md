@@ -116,6 +116,8 @@ I focus on:
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syntaxusman&theme=github-compact)
 
+[![](https://visitcount.itsvg.in/api?id=syntaxusman&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 
 ## Collaboration & Communication
