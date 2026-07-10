@@ -1,4 +1,4 @@
-[![GitFut Card](https://gitfut.com/api/card/syntaxusman)](https://gitfut.com/syntaxusman)
+[![GitFut Card](gitfut-card.png)](https://gitfut.com/syntaxusman)
 # Muhammad Usman Anjum
 
 Senior Full-Stack & Systems Engineer specializing in enterprise systems, ERP platforms, and business-critical applications. My work centers on delivering reliable, compliant, and maintainable software solutions for organizations where correctness, data integrity, and long-term operability are essential.
