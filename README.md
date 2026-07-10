@@ -1,20 +1,3 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Live GitFut Card -->
-    <td valign="top" width="50%">
-      <a href="https://gitfut.com/syntaxusman">
-        <img src="https://gitfut.com/syntaxusman.png" width="350" alt="GitFut Card" />
-      </a>
-    </td>
-    <!-- Your Bulletproof, Locally Generated Stats SVG -->
-    <td valign="top" width="50%">
-      <a href="https://github.com/syntaxusman">
-        <img src="dist/stats.svg" alt="My Profile Stats" width="380" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 # Muhammad Usman Anjum
 
 Senior Full-Stack & Systems Engineer specializing in enterprise systems, ERP platforms, and business-critical applications. My work centers on delivering reliable, compliant, and maintainable software solutions for organizations where correctness, data integrity, and long-term operability are essential.
