@@ -1,53 +1,3 @@
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <!-- COLUMN 1: THE DYNAMIC LIVE CARD -->
-    <td valign="top" width="45%" align="center">
-      <a href="https://gitfut.com/syntaxusman">
-        <img src="https://gitfut.com/syntaxusman.png" width="340" alt="GitFut Card" />
-      </a>
-    </td>
-
-    <!-- COLUMN 2: THE MATCHING UI BREAKDOWN -->
-    <td valign="top" width="55%">
-      <h2>⚽ GIT<font color="#E2B13C">FUT</font> SCOUTING REPORT</h2>
-      <p><i>The Engine: A relentless box-to-box daily-driver.</i></p>
-      
-      <hr size="1" color="#30363d">
-
-      <!-- PLAYSTYLES SECTION -->
-      <h3>⚡ PLAYSTYLES</h3>
-      <p>
-        <img src="https://img.shields.io/badge/PLAYSTYLE%2B-Workhorse-orange?style=for-the-badge&logo=activity" alt="Workhorse">
-        <img src="https://img.shields.io/badge/PLAYSTYLE-Rapid%20Fire-blue?style=for-the-badge&logo=githubactions" alt="Rapid Fire">
-      </p>
-
-      <hr size="1" color="#30363d">
-
-      <!-- SCOUTING METRICS PERFORMANCE BARS -->
-      <h3>📊 SCOUTING METRICS</h3>
-
-      <p><strong>Commits (92)</strong><br/>
-      <img src="https://deno-stroke-api.deno.dev/api/progress?progress=92&color=linear-gradient(to%20right,%20#E2B13C,%20#47cf73)&width=350&height=12" alt="Commits Progress"></p>
-
-      <p><strong>Active Days (96)</strong><br/>
-      <img src="https://deno-stroke-api.deno.dev/api/progress?progress=96&color=linear-gradient(to%20right,%20#E2B13C,%20#47cf73)&width=350&height=12" alt="Active Days Progress"></p>
-
-      <p><strong>Contributions (70)</strong><br/>
-      <img src="https://deno-stroke-api.deno.dev/api/progress?progress=70&color=linear-gradient(to%20right,%20#E2B13C,%20#47cf73)&width=350&height=12" alt="Contributions Progress"></p>
-
-      <hr size="1" color="#30363d">
-
-      <!-- ATTRIBUTES SUMMARY -->
-      <h3>🏃‍♂️ TRAITS & WORK RATE</h3>
-      <ul>
-        <li><strong>Style:</strong> Relentless <i>(Active on most days, all year round)</i></li>
-        <li><strong>Work Rate:</strong> Medium / Low <i>(Attack Med / Defense Low)</i></li>
-      </ul>
-
-      <p align="right"><a href="https://gitfut.com/syntaxusman"><i>View Full Interactive Profile ↗️</i></a></p>
-    </td>
-  </tr>
-</table>
 # Muhammad Usman Anjum
 
 Senior Full-Stack & Systems Engineer specializing in enterprise systems, ERP platforms, and business-critical applications. My work centers on delivering reliable, compliant, and maintainable software solutions for organizations where correctness, data integrity, and long-term operability are essential.
@@ -162,11 +112,26 @@ I focus on:
 
 ### Engineering Activity Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syntaxusman&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syntaxusman&theme=github-compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxusman&layout=compact&langs_count=6&theme=gruvbox&hide_border=true)
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://gitfut.com/syntaxusman">
+        <img src="https://gitfut.com/syntaxusman.png" width="350" alt="GitFut Card" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/syntaxusman">
+        <img src="https://readme-stats-github.pages.dev/api?username=syntaxusman&theme=shadow" alt="Live Stats" width="380" />
+      </a>
+      <br/>
+      <a href="https://github.com/syntaxusman">
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=syntaxusman&theme=shadow&layout=compact" alt="Live Languages" width="380" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
