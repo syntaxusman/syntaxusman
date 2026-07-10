@@ -1,0 +1,28 @@
+name: Generate Git Stats SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every midnight
+  workflow_dispatch: # Allows you to run it manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate SVG
+        uses: teoxoy/profile-readme-stats@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output: dist/stats.svg
+          # Custom colors to match your GitFut Bronze card perfectly
+          theme: dark
+          accent: e2b13c
+          text: f3cc91
+
+      - name: Commit & Push SVG
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/stats.svg
+          git commit -m "chore: update profile stats image" || exit 0
+          git push
