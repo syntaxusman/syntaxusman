@@ -1,4 +1,21 @@
-[![GitFut Card](https://gitfut.com/syntaxusman.png)](https://gitfut.com/syntaxusman)
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://gitfut.com/syntaxusman">
+        <img src="https://gitfut.com/syntaxusman.png" width="350" alt="GitFut Card" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/syntaxusman">
+        <img src="https://readme-stats-github.pages.dev/api?username=syntaxusman&theme=shadow" alt="Live Stats" width="380" />
+      </a>
+      <br/>
+      <a href="https://github.com/syntaxusman">
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=syntaxusman&theme=shadow&layout=compact" alt="Live Languages" width="380" />
+      </a>
+    </td>
+  </tr>
+</table>
 # Muhammad Usman Anjum
 
 Senior Full-Stack & Systems Engineer specializing in enterprise systems, ERP platforms, and business-critical applications. My work centers on delivering reliable, compliant, and maintainable software solutions for organizations where correctness, data integrity, and long-term operability are essential.
