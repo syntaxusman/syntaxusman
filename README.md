@@ -111,9 +111,6 @@ I focus on:
 > Most of the development activity reflected here originates from **private repositories** maintained across GitHub and Azure DevOps. These repositories remain private due to enterprise ownership, intellectual property, and strict contractual requirements.
 
 ### Engineering Activity Overview
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syntaxusman&theme=github-compact)
-
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <!-- Live GitFut Card -->
@@ -122,18 +119,10 @@ I focus on:
         <img src="https://gitfut.com/syntaxusman.png" width="350" alt="GitFut Card" />
       </a>
     </td>
-    <!-- Perfectly Themed Live Analytics Breakdown -->
-    <td valign="top" width="50%">
-      <a href="https://github.com/syntaxusman">
-        <img src="https://readme-stats-github.pages.dev/api?username=syntaxusman&bg_color=00000000&title_color=e2b13c&text_color=f3cc91&icon_color=e2b13c&hide_border=true&count_private=true" alt="Live Stats" width="380" />
-      </a>
-      <br/>
-      <a href="https://github.com/syntaxusman">
-        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=syntaxusman&bg_color=00000000&title_color=e2b13c&text_color=f3cc91&hide_border=true&layout=compact" alt="Live Languages" width="380" />
-      </a>
-    </td>
   </tr>
 </table>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syntaxusman&theme=github-compact)
 
 ---
 
